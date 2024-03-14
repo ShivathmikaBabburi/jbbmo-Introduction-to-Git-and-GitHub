@@ -2,7 +2,7 @@
 
 ## Simple Interest Calculator
 
-A calculator that calculates simple interest given principa, annual rate of interest and time period in years.
+A calculator that calculates simple interst given principa, annual rate of interest and time period in years.
 
 ```
 Input:
